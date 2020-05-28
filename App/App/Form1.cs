@@ -223,7 +223,7 @@ namespace App
 
         private void Form1_KeyPress(object sender, KeyPressEventArgs e)
         {
-            switch (Convert.ToString(e.KeyChar))
+            switch (e.KeyChar.ToString)
             {
                 case "0":
                     btn0.PerformClick();
