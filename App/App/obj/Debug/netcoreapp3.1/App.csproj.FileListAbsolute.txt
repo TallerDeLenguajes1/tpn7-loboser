@@ -1,0 +1,15 @@
+C:\Repogit\tp7\tpn7-loboser\App\App\bin\Debug\netcoreapp3.1\App.exe
+C:\Repogit\tp7\tpn7-loboser\App\App\bin\Debug\netcoreapp3.1\App.deps.json
+C:\Repogit\tp7\tpn7-loboser\App\App\bin\Debug\netcoreapp3.1\App.runtimeconfig.json
+C:\Repogit\tp7\tpn7-loboser\App\App\bin\Debug\netcoreapp3.1\App.runtimeconfig.dev.json
+C:\Repogit\tp7\tpn7-loboser\App\App\bin\Debug\netcoreapp3.1\App.dll
+C:\Repogit\tp7\tpn7-loboser\App\App\bin\Debug\netcoreapp3.1\App.pdb
+C:\Repogit\tp7\tpn7-loboser\App\App\obj\Debug\netcoreapp3.1\App.csprojAssemblyReference.cache
+C:\Repogit\tp7\tpn7-loboser\App\App\obj\Debug\netcoreapp3.1\App.Form1.resources
+C:\Repogit\tp7\tpn7-loboser\App\App\obj\Debug\netcoreapp3.1\App.csproj.GenerateResource.cache
+C:\Repogit\tp7\tpn7-loboser\App\App\obj\Debug\netcoreapp3.1\App.AssemblyInfoInputs.cache
+C:\Repogit\tp7\tpn7-loboser\App\App\obj\Debug\netcoreapp3.1\App.AssemblyInfo.cs
+C:\Repogit\tp7\tpn7-loboser\App\App\obj\Debug\netcoreapp3.1\App.csproj.CoreCompileInputs.cache
+C:\Repogit\tp7\tpn7-loboser\App\App\obj\Debug\netcoreapp3.1\App.dll
+C:\Repogit\tp7\tpn7-loboser\App\App\obj\Debug\netcoreapp3.1\App.pdb
+C:\Repogit\tp7\tpn7-loboser\App\App\obj\Debug\netcoreapp3.1\App.genruntimeconfig.cache
