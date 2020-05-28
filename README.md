@@ -17,7 +17,5 @@ Un controlador de eventos es un método que está enlazado a un evento. Cuando s
 Eventos de teclado: Windows Forms proporciona dos eventos que se producen cuando el usuario presiona una tecla del teclado y un evento cuando el usuario suelta una tecla del teclado:
 
 - El evento KeyDown, que se produce una vez. 
-
 - El evento KeyPress, que se puede producir varias veces cuando un usuario mantiene presionada la misma tecla.
-
 - El evento KeyUp, que se produce una vez cuando el usuario suelta una tecla.
